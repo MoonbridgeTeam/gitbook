@@ -1,5 +1,11 @@
 # Table of contents
 
-* [testnet](README.md)
-  * [bifrost](testnet/bifrost.md)
-  * [moonbeam](testnet/moonbeam.md)
+* [Moonbridge](README.md)
+
+## Mainnet
+
+* [Page 1](mainnet/page-1.md)
+
+## Testnet
+
+* [Page 2](testnet/page-2.md)
